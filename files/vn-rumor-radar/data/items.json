@@ -1,0 +1,98 @@
+[
+ {
+  "id": "a1",
+  "tickers": [
+   "HPG"
+  ],
+  "title": "Đồn đoán Hòa Phát đẩy nhanh tiến độ Dung Quất giai đoạn 2",
+  "snippet": "Thông tin lan truyền trên diễn đàn, doanh nghiệp chưa xác nhận.",
+  "link": "https://f319.com/threads/example-hpg.123/",
+  "source_name": "F319",
+  "source_type": "forum",
+  "published": "2026-06-12T12:22:39.229515+07:00",
+  "is_rumor_flagged": true,
+  "sentiment": "neutral",
+  "verify": "unverified",
+  "heat": 70
+ },
+ {
+  "id": "a2",
+  "tickers": [
+   "FPT"
+  ],
+  "title": "FPT ký hợp đồng AI mới tại Nhật Bản",
+  "snippet": "Đại diện doanh nghiệp xác nhận thông tin với báo chí.",
+  "link": "https://cafef.vn/example-fpt.chn",
+  "source_name": "CafeF - Doanh nghiệp",
+  "source_type": "press",
+  "published": "2026-06-12T10:22:39.229515+07:00",
+  "is_rumor_flagged": false,
+  "sentiment": "positive",
+  "verify": "verified",
+  "heat": 40
+ },
+ {
+  "id": "a3",
+  "tickers": [
+   "DIG"
+  ],
+  "title": "DIC Corp bác bỏ tin đồn thay đổi nhân sự cấp cao",
+  "snippet": "Doanh nghiệp phát đi thông cáo đính chính trên website.",
+  "link": "https://vietstock.vn/example-dig.htm",
+  "source_name": "Vietstock - Cổ phiếu",
+  "source_type": "press",
+  "published": "2026-06-12T08:22:39.229515+07:00",
+  "is_rumor_flagged": true,
+  "sentiment": "neutral",
+  "verify": "debunked",
+  "heat": 55
+ },
+ {
+  "id": "a4",
+  "tickers": [
+   "NVL"
+  ],
+  "title": "Xôn xao về tiến độ tái cấu trúc lô trái phiếu Novaland đến hạn",
+  "snippet": "Chủ đề được bàn luận nhiều, chưa có công bố chính thức.",
+  "link": "https://voz.vn/t/example-nvl.456/",
+  "source_name": "VOZ",
+  "source_type": "forum",
+  "published": "2026-06-12T06:22:39.229515+07:00",
+  "is_rumor_flagged": true,
+  "sentiment": "neutral",
+  "verify": "unverified",
+  "heat": 70
+ },
+ {
+  "id": "a5",
+  "tickers": [
+   "VCB"
+  ],
+  "title": "Vietcombank lên kế hoạch trả cổ tức, trình phương án tăng vốn",
+  "snippet": "Theo tài liệu đại hội cổ đông được công bố.",
+  "link": "https://vnexpress.net/example-vcb.html",
+  "source_name": "VnExpress - Kinh doanh",
+  "source_type": "press",
+  "published": "2026-06-11T12:22:39.229515+07:00",
+  "is_rumor_flagged": false,
+  "sentiment": "positive",
+  "verify": "verified",
+  "heat": 50
+ },
+ {
+  "id": "a6",
+  "tickers": [
+   "HAG"
+  ],
+  "title": "Lan truyền tin Hoàng Anh Gia Lai có đối tác chiến lược mới",
+  "snippet": "Xuất phát từ bài đăng mạng xã hội, chưa kiểm chứng.",
+  "link": "https://news.google.com/example-hag",
+  "source_name": "Google News · HAG",
+  "source_type": "press",
+  "published": "2026-06-11T08:22:39.229515+07:00",
+  "is_rumor_flagged": true,
+  "sentiment": "positive",
+  "verify": "unverified",
+  "heat": 65
+ }
+]
